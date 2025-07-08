@@ -1,0 +1,5 @@
+# Python 3.12.9
+crewai
+crewai_tools
+plotly
+kaleido
