@@ -56,7 +56,7 @@ The included example demonstrates planning for an "Electric Motor Production Fac
 
 <div align="center">
   <img src="gantt_chart.png" alt="Gantt Chart Example" style="width:100%; height:auto;">
-  <p><em>Example Gantt chart generated for Electric Motor Production Facility project showing task timelines and team member assignments</em></p>
+  <p><em>Gantt chart for "Electric Motor Production Facility" project</em></p>
 </div>
 
 View the interactive Gantt Chart [here](https://yauheniya-ai.github.io/planning-agent/gantt_chart.html)
